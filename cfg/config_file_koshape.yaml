@@ -1,0 +1,10 @@
+extend_condition_large_depth: 3
+extend_condition_small_depth: 4
+large_area_threshold: 30
+small_area_threshold: 100
+cut_threshold: 1000
+OPEN_WIDTH: 50
+max_open_width: 2.86487
+full_length: 158
+full_area: 1773
+curvatures: [-12.528807709151522, 15.255118703057775, 56.30993247402023, 11.309932474020215, 7.125016348901795, 0.0, 53.13010235415598, 33.36636600105956, -3.621484704117341]

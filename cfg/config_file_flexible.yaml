@@ -1,0 +1,11 @@
+extend_condition_large_depth: 3
+extend_condition_small_depth: 4
+large_area_threshold: 100
+small_area_threshold: 100
+cut_threshold: 20
+OPEN_WIDTH: 50
+max_open_width: 2.86487
+full_length: 526
+full_area: 5350
+
+
